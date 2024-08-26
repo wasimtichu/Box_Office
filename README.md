@@ -1,0 +1,12 @@
+Please write SQL queries to find answers to the following business questions on the Boxoffice Collection data:
+
+1. Show the list of movies released in 2020.
+2. List the top 5 movies which grossed the highest collections across all years. 
+3. List the name of the producers who has produced comedy movies in 2019. 
+4. Which movie in 2020 had the shortest duration?
+5. List the movie with the highest opening weekend. Is this the same movie which had the highest overall collection?
+6. List the movies which had the weekend collection same as the first week collection
+7. List the top 3 movies with the highest foreign collection. 
+8. List the movies that were released on a non-weekend day. 
+9. List the movies by Reliance Entertainment which were non comedy.
+10. List the movies produced in the month of October, November, and December that were released on the weekends.
