@@ -1,4 +1,4 @@
-Box Office Collection Analysis Using SQL
+# Box Office Collection Analysis Using SQL <br>
 
 I performed an in-depth analysis of Box Office Collection Data using SQL to extract key insights. The queries focused on movie trends, revenue performance, producer involvement, and release patterns.
 
